@@ -1,4 +1,4 @@
-# curso-de-algoritmo-e-logica-de-programacao
-Curso Algoritmos e Lógica de Programação - Nélio Alves
-
+# Curso Algoritmos e Lógica de Programação - Nélio Alves
+<br>
+<br>
 Lista de exercícios - Estrutura sequencial (50%)
